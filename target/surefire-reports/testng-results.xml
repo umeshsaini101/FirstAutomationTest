@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-07T16:38:22 IST" name="Suite" finished-at="2023-01-07T16:38:58 IST" duration-ms="35764">
+    <groups>
+    </groups>
+    <test started-at="2023-01-07T16:38:22 IST" name="Test" finished-at="2023-01-07T16:38:58 IST" duration-ms="35764">
+      <class name="TestCases.TestCases">
+        <test-method is-config="true" signature="launchDriver()[pri:0, instance:TestCases.TestCases@44a7bfbc]" started-at="2023-01-07T16:38:22 IST" name="launchDriver" finished-at="2023-01-07T16:38:28 IST" duration-ms="5385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method signature="Test1()[pri:0, instance:TestCases.TestCases@44a7bfbc]" started-at="2023-01-07T16:38:28 IST" name="Test1" finished-at="2023-01-07T16:38:39 IST" duration-ms="11441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:TestCases.TestCases@44a7bfbc]" started-at="2023-01-07T16:38:39 IST" name="quit" finished-at="2023-01-07T16:38:40 IST" duration-ms="344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="launchDriver()[pri:0, instance:TestCases.TestCases@44a7bfbc]" started-at="2023-01-07T16:38:40 IST" name="launchDriver" finished-at="2023-01-07T16:38:41 IST" duration-ms="1401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method signature="Test2()[pri:0, instance:TestCases.TestCases@44a7bfbc]" started-at="2023-01-07T16:38:41 IST" name="Test2" finished-at="2023-01-07T16:38:52 IST" duration-ms="10594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:TestCases.TestCases@44a7bfbc]" started-at="2023-01-07T16:38:52 IST" name="quit" finished-at="2023-01-07T16:38:52 IST" duration-ms="331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="launchDriver()[pri:0, instance:TestCases.TestCases@44a7bfbc]" started-at="2023-01-07T16:38:52 IST" name="launchDriver" finished-at="2023-01-07T16:38:53 IST" duration-ms="1527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method signature="Test3()[pri:0, instance:TestCases.TestCases@44a7bfbc]" started-at="2023-01-07T16:38:53 IST" name="Test3" finished-at="2023-01-07T16:38:57 IST" duration-ms="3998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:TestCases.TestCases@44a7bfbc]" started-at="2023-01-07T16:38:57 IST" name="quit" finished-at="2023-01-07T16:38:58 IST" duration-ms="607" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- TestCases.TestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
